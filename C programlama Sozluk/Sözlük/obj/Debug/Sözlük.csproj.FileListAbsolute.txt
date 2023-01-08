@@ -1,0 +1,11 @@
+C:\Users\Faruk\Desktop\sozlk\Sözlük\bin\Debug\Sözlük.exe.config
+C:\Users\Faruk\Desktop\sozlk\Sözlük\bin\Debug\Sözlük.exe
+C:\Users\Faruk\Desktop\sozlk\Sözlük\bin\Debug\Sözlük.pdb
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sözlük.csproj.AssemblyReference.cache
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sözlük.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sözlük.Sozluk.resources
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sozluk.Properties.Resources.resources
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sözlük.csproj.GenerateResource.cache
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sözlük.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sözlük.exe
+C:\Users\Faruk\Desktop\sozlk\Sözlük\obj\Debug\Sözlük.pdb
